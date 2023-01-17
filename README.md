@@ -15,3 +15,14 @@
 13. Deployment
 14. Cluster
 15. Design Patterns
+16. Application
+17. Bounce rate
+18. Bit
+19. Cloud Storage
+20. Latency
+21. Big data
+22. I/O Devices
+23. Algorithm
+24. Bug and Debugging
+25. Data Mining
+26. Digital Marketing Traffic
