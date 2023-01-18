@@ -26,3 +26,14 @@
 24. Bug and Debugging
 25. Data Mining
 26. Digital Marketing Traffic
+27. Cloud Computing
+28. Public cloud
+29. Private cloud
+30. Hybrid cloud
+31. Multi cloud
+32. Service Level Agreement
+33. IaaS
+34. PaaS
+35. SaaS
+36. XaaS
+37. BaaS
