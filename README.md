@@ -37,3 +37,13 @@
 35. SaaS
 36. XaaS
 37. BaaS
+38. Authentication
+39. Encryption
+40. Decryption
+41. Sniffing
+42. cookies
+43. Captcha
+44. Firewall
+45. Phishing
+46. Keylogger
+47. Steganography
