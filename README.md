@@ -47,3 +47,11 @@
 45. Phishing
 46. Keylogger
 47. Steganography
+48. API
+49. IP address
+50. CRM
+51. UI
+52. UX
+53. HTTP
+54. HTTPS
+55. Minification
